@@ -22,7 +22,7 @@ export default function HomeScreen() {
       <ThemedView style={styles.stepContainer}>
         <ThemedText type='subtitle'>Step 1: Try it</ThemedText>
         <ThemedText>
-          Edit{' '}
+          Edit The app through{' '}
           <ThemedText type='defaultSemiBold'>
             src/app/(tabs)/index.tsx
           </ThemedText>{' '}
